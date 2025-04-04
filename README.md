@@ -5,7 +5,7 @@ I'm Junior Front-End Developer
 ### Languages and tools I work with:
 
 <code>
-<img src="https://static.vecteezy.com/system/resources/previews/013/313/458/non_2x/html-icon-3d-rendering-illustration-vector.jpg" with=30px/>
+<img src="https://static.vecteezy.com/system/resources/previews/013/313/458/non_2x/html-icon-3d-rendering-illustration-vector.jpg" with="30px"/>
 </code>
 <!--
 **byfuzayliy/byfuzayliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
