@@ -9,7 +9,7 @@ I'm Junior Front-End Developer
 <code><img src="https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png" width="30px"/></code>
 <code><img src="https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png" width="30px"/></code>
 <code><img src="https://img.icons8.com/?size=48&id=nCj4PvnCO0tZ&format=png" width="30px"/></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGms6xGjMf5J2tod6T4t8oe8g5lcyncWTYw&s" width="30px"/></code>
+<code><img src="https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=FFFFFF" width="30px"/></code>
 <!--
 **byfuzayliy/byfuzayliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
