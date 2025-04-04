@@ -6,6 +6,8 @@ I'm Junior Front-End Developer
 
 <code><img src="https://img.icons8.com/?size=48&id=20909&format=png" width="30px"/></code>
 <code><img src="https://img.icons8.com/fluent/512/css3.png" width="30px"/></code>
+<code><img src="[https://img.icons8.com/fluent/512/css3.png](https://img.icons8.com/?size=48&id=108784&format=png)" width="30px"/></code>
+<code><img src="[[https://img.icons8.com/fluent/512/css3.png](https://img.icons8.com/?size=48&id=108784&format=png)](https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png)****" width="30px"/></code>
 <!--
 **byfuzayliy/byfuzayliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
